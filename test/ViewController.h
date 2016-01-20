@@ -10,6 +10,6 @@
 
 @interface ViewController : UIViewController
 
-
+//+(NSString*)weekdayStringFromDate:(NSDate*)inputDate;
 @end
 
